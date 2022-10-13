@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">relativ siair</string>
+    <string-array name="arr_nama">
+        <item>Natasya herdiana</item>
+        <item>Neyllo Dube Hendika</item>
+        <item>Ayu Qurniawati</item>
+        <item>muhammad elleanor abzi putra</item>
+    </string-array>
+</resources>
